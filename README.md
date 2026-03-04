@@ -1,5 +1,11 @@
 # FNP Sales Data Analysis Dashboard
 
+## Dashboard Preview
+
+![FNP Dashboard](FNP_Dashboard.png)
+
+---
+
 ## Project Overview
 
 This project performs structured exploratory data analysis (EDA) on transactional sales data from Ferns N Petals (FNP). The objective was to transform raw order-level data into measurable business insights using KPI development, trend analysis, and interactive dashboard visualization in Microsoft Excel.
